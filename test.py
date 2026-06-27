@@ -1,1 +1,1 @@
-print("Hello this is git test v1")
+printHello this is git test v1")
